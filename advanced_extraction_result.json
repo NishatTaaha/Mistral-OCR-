@@ -1,0 +1,29 @@
+{
+  "patient_name": "John R. Doe",
+  "patient_address": "U.S.S. Never forgotten (DD 178)",
+  "patient_dob": "",
+  "patient_age": 12,
+  "patient_sex": "Male",
+  "prescription_date": "23/01/1999",
+  "doctor_name": "Jack R. Frost",
+  "doctor_title": "MD",
+  "clinic_address": "U.S.S: Never forgotten (DD 178)",
+  "clinic_phone": "",
+  "medicine_name": [
+    "Tr Belledenna 15 ml",
+    "Amphogel gaad 120 ml"
+  ],
+  "medicine_dose": [
+    "5 ml"
+  ],
+  "medicine_frequency": [
+    "lid a.c."
+  ],
+  "medicine_duration": "",
+  "instructions": "M & F1 Solution; Seg: 5ml lid a.c.",
+  "immunization": "",
+  "immunization_date": "",
+  "is_allergic": null,
+  "weight": "",
+  "is_pregnant": null
+}

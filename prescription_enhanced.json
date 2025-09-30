@@ -1,0 +1,135 @@
+{
+  "prescription_data": {
+    "patient_name": "John R. Doe",
+    "patient_address": "",
+    "patient_dob": "",
+    "patient_age": 12,
+    "patient_sex": "Male",
+    "prescription_date": "23 JAN 99",
+    "doctor_name": "Jack R. Frost",
+    "doctor_title": "LODR.",
+    "clinic_address": "U.S.S: Never forgotten (DD 178)",
+    "clinic_phone": "",
+    "medicine_name": "Amphogel, gaad, Belledenna, Tr",
+    "medicine_dose": "15 ml, 15 ml, 120 ml, 15 ml, 120 ml",
+    "medicine_frequency": "",
+    "medicine_duration": "",
+    "instructions": ") Seg: 5ml lid a.c. | MFGR: | Wyeth | EXP DATE: | 12/02 | | --- | --- | --- | --- | | LOT NO: | P39K106 | FILLED BY: | KMT | Jack R. Frost LODR. MD. USNR SIGNATURE RANK AND DEGREE EDITION OF 1 JAN 60 MAY BE USED FOR S/N 0102-LF-012-6201",
+    "immunization": "",
+    "immunization_date": "",
+    "is_allergic": null,
+    "weight": "",
+    "is_pregnant": null
+  },
+  "completion_status": {
+    "total_fields": 20,
+    "completed_fields": 10,
+    "required_fields": 12,
+    "required_completed": 9,
+    "field_status": {
+      "patient_name": {
+        "required": true,
+        "completed": true,
+        "value": "John R. Doe"
+      },
+      "patient_address": {
+        "required": false,
+        "completed": false,
+        "value": ""
+      },
+      "patient_dob": {
+        "required": true,
+        "completed": false,
+        "value": ""
+      },
+      "patient_age": {
+        "required": true,
+        "completed": true,
+        "value": 12
+      },
+      "patient_sex": {
+        "required": true,
+        "completed": true,
+        "value": "Male"
+      },
+      "prescription_date": {
+        "required": true,
+        "completed": true,
+        "value": "23 JAN 99"
+      },
+      "doctor_name": {
+        "required": true,
+        "completed": true,
+        "value": "Jack R. Frost"
+      },
+      "doctor_title": {
+        "required": true,
+        "completed": true,
+        "value": "LODR."
+      },
+      "clinic_address": {
+        "required": false,
+        "completed": true,
+        "value": "U.S.S: Never forgotten (DD 178)"
+      },
+      "clinic_phone": {
+        "required": true,
+        "completed": false,
+        "value": ""
+      },
+      "medicine_name": {
+        "required": true,
+        "completed": true,
+        "value": "Amphogel, gaad, Belledenna, Tr"
+      },
+      "medicine_dose": {
+        "required": true,
+        "completed": true,
+        "value": "15 ml, 15 ml, 120 ml, 15 ml, 120 ml"
+      },
+      "medicine_frequency": {
+        "required": false,
+        "completed": false,
+        "value": ""
+      },
+      "medicine_duration": {
+        "required": true,
+        "completed": false,
+        "value": ""
+      },
+      "instructions": {
+        "required": true,
+        "completed": true,
+        "value": ") Seg: 5ml lid a.c. | MFGR: | Wyeth | EXP DATE: | 12/02 | | --- | --- | --- | --- | | LOT NO: | P39K106 | FILLED BY: | KMT | Jack R. Frost LODR. MD. USNR SIGNATURE RANK AND DEGREE EDITION OF 1 JAN 60 MAY BE USED FOR S/N 0102-LF-012-6201"
+      },
+      "immunization": {
+        "required": false,
+        "completed": false,
+        "value": ""
+      },
+      "immunization_date": {
+        "required": false,
+        "completed": false,
+        "value": ""
+      },
+      "is_allergic": {
+        "required": false,
+        "completed": false,
+        "value": null
+      },
+      "weight": {
+        "required": false,
+        "completed": false,
+        "value": ""
+      },
+      "is_pregnant": {
+        "required": false,
+        "completed": false,
+        "value": null
+      }
+    },
+    "completion_percentage": 50.0,
+    "required_completion_percentage": 75.0
+  },
+  "timestamp": "2025-09-30T18:32:31.420900"
+}

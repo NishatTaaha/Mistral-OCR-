@@ -1,0 +1,22 @@
+{
+  "patient_name": "John R. Doe",
+  "patient_address": "",
+  "patient_dob": "",
+  "patient_age": "",
+  "patient_sex": "",
+  "prescription_date": "23 JAN 99",
+  "doctor_name": "Jack R. Frost",
+  "doctor_title": "LODR. MD. USNR",
+  "clinic_address": "U.S.S: Never forgotten (DD 178)",
+  "clinic_phone": "",
+  "medicine_name": "Belledenna, Tr, Amphogel",
+  "medicine_dose": "15 ml, Belledenna, gaad",
+  "medicine_frequency": "",
+  "medicine_duration": "",
+  "instructions": "5ml lid a.c.",
+  "immunization": "",
+  "immunization_date": "",
+  "is_allergic": null,
+  "weight": "",
+  "is_pregnant": null
+}

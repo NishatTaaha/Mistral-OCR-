@@ -1,0 +1,23 @@
+PRESCRIPTION DATA EXTRACTION RESULTS
+==================================================
+
+Patient Name: John R. Doe
+Patient Address: Not found
+Patient Dob: Not found
+Patient Age: Not found
+Patient Sex: Not found
+Prescription Date: 23 JAN 99
+Doctor Name: Jack R. Frost
+Doctor Title: LODR. MD. USNR
+Clinic Address: U.S.S: Never forgotten (DD 178)
+Clinic Phone: Not found
+Medicine Name: Belledenna, Tr, Amphogel
+Medicine Dose: 15 ml, Belledenna, gaad
+Medicine Frequency: Not found
+Medicine Duration: Not found
+Instructions: 5ml lid a.c.
+Immunization: Not found
+Immunization Date: Not found
+Is Allergic: Not found
+Weight: Not found
+Is Pregnant: Not found
